@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90e3f287-33f3-44d0-86f9-dd582eadd160" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/zima.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filmy/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filmy/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filmy/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filmy/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filmy/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filmy/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filmy/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zegar/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zegar/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zegar/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zegar/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zegar/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zegar/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zegar/templates/zegar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zegar/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zegar/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zegar/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zima/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zima/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zima/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zima/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zima/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/zima/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,11 +49,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/zima/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+            <state relative-caret-position="755">
+              <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -122,7 +95,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -178,13 +151,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/zima/settings.py" />
         <option value="$PROJECT_DIR$/zima/urls.py" />
         <option value="$PROJECT_DIR$/zegar/urls.py" />
         <option value="$PROJECT_DIR$/zegar/models.py" />
         <option value="$PROJECT_DIR$/zegar/admin.py" />
         <option value="$PROJECT_DIR$/zegar/templates/index.html" />
         <option value="$PROJECT_DIR$/zegar/views.py" />
+        <option value="$PROJECT_DIR$/zima/settings.py" />
       </list>
     </option>
   </component>
@@ -243,7 +216,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../portfolio-projekt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blogpl" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -282,6 +255,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -319,13 +293,6 @@
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zima/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -379,6 +346,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zima/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="755">
+          <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
